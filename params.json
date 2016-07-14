@@ -1,0 +1,6 @@
+{
+  "name": "Spectrafy",
+  "tagline": "A small Flask server for making Spectra-style images",
+  "body": "# Spectra-fy\r\n\r\nCheck out [Spectra](https://sospectra.com), a brand-new all women hackathon coming to the San Francisco Bay Area.\r\n\r\nThis project is forked from [AlexEKoren/Technify](https://github.com/AlexEKoren/Technify).\r\n\r\n## Setup\r\n```\r\npip install -r requirements.txt\r\n```\r\n\r\n## Running the app\r\n```\r\npython app.py\r\n```\r\nRuns on [http://localhost:5000](http://localhost:5000) by default.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
